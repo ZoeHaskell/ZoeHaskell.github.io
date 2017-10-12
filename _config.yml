@@ -12,7 +12,8 @@ description: Web Developer from Somewhere
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 theme: jekyll-theme-cayman
-
+title: Data Snacks
+description: Statistics and Data Science from the PhD Trenches
 #
 # Flags below are optional
 #
